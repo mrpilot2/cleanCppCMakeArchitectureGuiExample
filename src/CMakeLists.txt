@@ -1,0 +1,4 @@
+
+add_executable(cleanCppCMakeArchitectureGuiExample main.cpp)
+
+target_link_libraries(cleanCppCMakeArchitectureGuiExample Catch2::Catch2)
